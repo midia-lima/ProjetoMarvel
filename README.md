@@ -1,5 +1,5 @@
 <h1 align="center">Filmes da Marvel</h1>
-<img src="img/logo.jpg" align="center"> <b>HTML</b><br>
+<img src="img/logo.jpg" align="center"><br>
 
 <p align="center"><img src="https://img.shields.io/badge/Made%20By-Midi%C3%A3%20Lima-blueviolet?link=http://left&link="https://www.linkedin.com/in/midia-lima/right"></p><br>
 
