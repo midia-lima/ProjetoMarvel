@@ -4,7 +4,7 @@
 <p align="center"><img src="https://img.shields.io/badge/Made%20By-Midi%C3%A3%20Lima-blueviolet?link=http://left&link="https://www.linkedin.com/in/midia-lima/right"></p><br>
 
 <h2>:clipboard: Descrição</h2>
-<p>Esse página foi desenvolvida como objetivo de mostrar a ordem cronologia dos filmes da Marvel</p>
+<p>Esse página foi desenvolvida como objetivo de mostrar a ordem cronológica dos filmes da Marvel</p>
 
 <h2>:computer:Tecnologias</h2>
 <p>As Tecnologias utilizadas nesse repósitorio são:<br><br>
