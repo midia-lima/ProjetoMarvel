@@ -10,7 +10,7 @@
 <p>As Tecnologias utilizadas nesse repósitorio são:<br><br>
 <img src="img/html.png"> <b>HTML</b><br>
 <img src="img/css.png"> <b>CSS</b><br>
-<img src="img/css.png"> <b>JavaScript</b><br>
+<img src="img/javascript.png"> <b>JavaScript</b><br>
 
 <h2>:sheep: Clonando o Repósitorio</h2>
 <p>Para clonar o repósitorio, você deve abrir o <b>terminal</b> ou <b>git bash</b> na pasta que deseja adicionar o projeto. Após isso execute a linha de comando:</p>
