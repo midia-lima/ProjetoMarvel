@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&family=Tangerine:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+#img-topo {
+    width: 100%;
+}
+    
+header {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    background-color: #b0b0b080;
+}
+    
+nav {
+    margin: 0 auto;
+    height: 50px;
+}
+    
+.menu-principal {
+    display: flex;
+}
+    
+.menu-principal li {
+    margin: 5px 5px;   
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    font-family: arial;
+}
+    
+.menu-principal li a {
+    text-decoration: none;
+    color: #fff;
+   
+}
+    
+.menu-principal li:hover {
+    background-color: #256697;
+    transition: all 1.0s;
+    cursor: pointer;
+}
+    
+
+
+@media (max-width: 600px) {
+    .titulo h1 {
+        font-size: 60px;
+    }
+    .titulo h2 {
+        font-size: 60px;
+    }
+}
+    
+.conteudo {
+    margin-top: 25px;
+    text-align: center;
+}
+    
+.conteudo h2 {
+    font-size: 50px;
+    font-family: 'Forum', cursive;
+}
+    
+.conteudo h3 {
+    margin-top: 25px;
+    font-size: 30px;
+    font-family: 'Forum', cursive;
+}
+    
+.conteudo p {
+    margin-top: 15px;
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: 'Forum', cursive;
+}
+    
+.palestra {
+    padding-top: 20px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+    
+.palestra h4 {
+    font-size: 50px;
+    color: #000;
+    padding: 25px;
+    font-family: 'Forum', cursive;
+}
+    
+.palestra p {
+    font-size: 45px;
+    color: #000;
+    font-family: 'Tangerine', cursive;
+    margin-bottom: 25px;
+}
+    
+.palestrantes {
+    align-items: top;
+    margin: 10px;
+    display: inline-block;
+    background: #850300;
+    padding: 15px;   
+    width: 250px;
+    height: 420px;
+    vertical-align: top;
+    border: 3px solid #000;
+    box-shadow: 5px 5px 10px #000;
+}
+    
+.palestrantes span {
+    display: inline-block;
+    text-align: center;
+    color: #b2b7b3;
+    font-size: 25px;
+    margin-top: 15px;
+    font-family: 'Philosopher', sans-serif;
+    font-weight: bold;
+}
+    
+.palestrantes p {
+    color: #000;
+    font-size: 15px;
+    padding-top: 20px;
+    font-family: 'Philosopher', sans-serif;
+}
+    
+#foto-participante {
+    width: 80%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 2px solid #000;
+}
+
+.footer {
+    margin: 0 auto;
+    width: 100%;
+    height: 100px;
+    background: #333;    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.final {
+    color: #666;
+    font-size: 14px;
+    margin-left: 40px;
+}
+
+.redes {
+    margin-right: 30px;
+}
+
+.redes-sociais {
+    color: #666;
+    font-size: 20px;
+    margin: 0 5px 0 5px;
+    display: inline-block;    
+}
+
+.redes-sociais:hover {
+    color: #fff
+}
